@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/colehowell/AndroidStudioProjects/ItemArchiver/app/build/intermediates/res/merged/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+        "outputFile": "/Users/colehowell/Desktop/ItemArchiver/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 114
                 },
                 "from": {
-                    "file": "/Users/colehowell/AndroidStudioProjects/ItemArchiver/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+                    "file": "/Users/colehowell/.android/build-cache/df6e71e3be3a1c17b5e508ff96b2f33f9abe58cd/output/res/values-xlarge-land-v4/values-xlarge-land-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

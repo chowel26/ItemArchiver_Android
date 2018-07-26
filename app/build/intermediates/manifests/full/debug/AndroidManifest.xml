@@ -16,8 +16,8 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:icon="@drawable/folder_icon_512x512"
+        android:label="Item Archiver"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity android:name="example.com.itemarchiver.MainActivity" >
@@ -28,6 +28,9 @@
             </intent-filter>
         </activity>
         <activity android:name="example.com.itemarchiver.CreateItem" />
+        <activity android:name="example.com.itemarchiver.ItemList" />
+        <activity android:name="example.com.itemarchiver.ViewItem" />
+        <activity android:name="example.com.itemarchiver.EditItem" />
     </application>
 
 </manifest>
